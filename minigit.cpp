@@ -1,6 +1,4 @@
-// MiniGit C++11 version with basic add, commit, and log functionality
 
-// Updated MiniGit with working commit functionality using staging area
 #include <iostream>
 #include <string>
 #include <vector>
