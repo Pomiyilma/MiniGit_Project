@@ -1,1 +1,1 @@
-# minigit-checkout
+# MiniGit_project
